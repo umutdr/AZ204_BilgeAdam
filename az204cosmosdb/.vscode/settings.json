@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/63001516-5bc2-4e77-acbc-913837bd9278/resourceGroups/AZ204/providers/Microsoft.Web/sites/mycosmosappservice",
+  "appService.deploySubpath": "."
+}
